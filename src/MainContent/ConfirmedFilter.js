@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function ConfirmedFilter(props){
     return(
         <div>
-          <h2>Invitees</h2>
+          <h2>Invites</h2>
           <label>
             <input
                 type="checkbox"
